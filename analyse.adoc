@@ -8,15 +8,15 @@
 
 ### Fabian Bytura
 
-Mengenverhätlnis zwischen der Nord- und Südhalbkugel? <br>
+Mengenverhätlnis zwischen der Nord- und Südhalbkugel?<br>
 In welchem Land gibt es die meisten Gletscher?
 
 ### Leon Leeb
 
-Welcher Kontinent hat durchschnittlich die höchsten Getscher? <br>
+Welcher Kontinent hat durchschnittlich die höchsten Getscher?<br>
 Wo ist der größte / kleinste Gletscher? (Koordinaten, Land: weltweit, pro Kontinent) 
 
 ### Jonas Pamminger
 
-Welches Land hat am meisten Gletscherfläche? <br>
+Welches Land hat am meisten Gletscherfläche?<br>
 Wo ist der nördlichste / südlichste / am nächsten zum Äquator liegende Gletscher? (Koordinaten, Land: weltweit, pro Kontinent)
